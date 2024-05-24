@@ -8,4 +8,5 @@
 ![7](https://github.com/icecreamperson/CSE_BlockDiagramAlgebra_Mechatronics_MexE3201_Group8_2024/assets/157493649/1451ed51-1701-4b7e-8052-fe0ba9368cd2)
 ![8](https://github.com/icecreamperson/CSE_BlockDiagramAlgebra_Mechatronics_MexE3201_Group8_2024/assets/157493649/dd4236d2-e4b1-45ad-b74b-0c8c2fe97cad)
 ![9](https://github.com/icecreamperson/CSE_BlockDiagramAlgebra_Mechatronics_MexE3201_Group8_2024/assets/157493649/cd8bf90c-3520-4e9d-b451-e8c489fafe81)
-![10](https://github.com/icecreamperson/CSE_BlockDiagramAlgebr
+![10](https://github.com/icecreamperson/CSE_BlockDiagramAlgebra_Mechatronics_MexE3201_Group8_2024/assets/157493649/8a00da7f-db60-4e58-8fae-dbb59c83caea)
+
